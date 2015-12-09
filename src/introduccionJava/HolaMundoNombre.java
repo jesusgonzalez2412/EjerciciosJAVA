@@ -1,4 +1,4 @@
-package modulo01;
+package introduccionJava;
 import java.util.Scanner;
 /**
  *Programa que pide al usuario que ingrese su nombre, lee el dato por el teclado

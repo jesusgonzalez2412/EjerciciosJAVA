@@ -1,5 +1,5 @@
 
-package modulo01;
+package introduccionJava;
 
 import java.util.Scanner;
 
