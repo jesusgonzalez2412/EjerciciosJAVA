@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  *Programa que utiliza la estructura iterativa While para mostrar los primeros
  * N numeros naturales. El usuario ingresa el valor N por teclado
- * @author RootX0d4y
+ * @author Jesús Glz
  */
 public class PrimerosNumerosConWhile {
     
